@@ -28,8 +28,8 @@ public class colas {
                     colaNegativos.add(numero);
                 }
             }
-                System.out.println("Cola de números negativos: " + colaNegativos);
-        } else {
+                System.out.println("Cola de números negativos: " + colaNegativos);}
+                else {
             System.out.println("No se ha formado ninguna cola nueva.");
         }
     }
